@@ -1,5 +1,5 @@
 /*
-  Button
+  Buttons
 
   Turns on and off a light emitting diode(LED) connected to digital pin 13,
   when pressing a pushbutton attached to pin 2.
@@ -12,10 +12,8 @@
   - Note: on most Arduinos there is already an LED on the board
     attached to pin 13.
 
-  created 2005
-  by DojoDave <http://www.0j0.org>
-  modified 30 Aug 2011
-  by PE
+  created Oct 05 2017
+  by Peizhi Han
 
 */
 
