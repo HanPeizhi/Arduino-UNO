@@ -1,7 +1,7 @@
 #include <avr/pgmspace.h>
 /*
  * 4.2 Use Big Data Storage to Play a Sound
- * mp3.wav to code
+ * mp3.wav by Audacity and converts to code
  * By Han Thu Nov 16 2017
  */
 
